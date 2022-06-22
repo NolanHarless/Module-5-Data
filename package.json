@@ -4,7 +4,7 @@
   "description": "School Project Module 5",
   "main": "index.js",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "express": "^4.17.1",
     "mongoose": "^5.9.7"
   },
